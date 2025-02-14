@@ -77,8 +77,3 @@ The project can be run on **Google Colab** or in a local environment.
 - Implementing **machine learning models** for enhanced recommendations.
 - Adding **user feedback mechanisms** to improve recommendation accuracy.
 - Using **real-time data** for dynamic recommendations.
-
----
-
-🚀 **Bu projeyi geliştirmek için önerilerin varsa bizimle paylaş!** / **Feel free to contribute to this project!**
-

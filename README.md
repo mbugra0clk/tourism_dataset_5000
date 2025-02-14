@@ -37,6 +37,8 @@ Proje **Google Colab** veya **yerel ortamda** çalıştırılabilir. Kullanmak i
 - **Kullanıcı geribildirim mekanizması** ile sistemin doğruluğu artırılabilir.
 - **Gerçek zamanlı veri kullanılarak** dinamik bir sistem oluşturulabilir.
 
+![Ekran görüntüsü 2025-02-14 105730](https://github.com/user-attachments/assets/0a3a5ab4-619f-4498-b2c9-6d04c707dbd1)
+
 ---
 
 # 🌍 Content-Based Recommendation System for Tourists
